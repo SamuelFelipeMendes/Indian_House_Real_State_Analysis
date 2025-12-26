@@ -1,6 +1,6 @@
 #  Indian House Real Estate Analysis
 
-Este projeto realiza uma ** Tratamento de valores e de dados ** para realizar em sequência uma **análise exploratória e preditiva** de dados de imóveis na Índia, com o objetivo de identificar padrões de preços, características mais relevantes e possíveis anomalias (outliers) nos dados.  
+Este projeto realiza uma **Tratamento de valores e de dados** para realizar em sequência uma **análise exploratória e preditiva** de dados de imóveis na Índia, com o objetivo de identificar padrões de preços, características mais relevantes e possíveis anomalias (outliers) nos dados.  
 
 A análise utiliza **Python** e bibliotecas populares de ciência de dados para limpeza, visualização e modelagem.
 
@@ -61,3 +61,4 @@ O script `teste_de_outliers.py` aplica métodos estatísticos (como IQR ou Z-Sco
 🔗 [GitHub Profile](https://github.com/SamuelFelipeMendes)
 
 ---
+
